@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConometroEmerson/1.0.0": {
+        "runtime": {
+          "ConometroEmerson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConometroEmerson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

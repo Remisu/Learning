@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\obj\Debug\netcoreapp3.1\ConometroEmerson.FrmCronometro.resources
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\obj\Debug\netcoreapp3.1\ConometroEmerson.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\obj\Debug\netcoreapp3.1\ConometroEmerson.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\obj\Debug\netcoreapp3.1\ConometroEmerson.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\obj\Debug\netcoreapp3.1\ConometroEmerson.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\bin\Debug\netcoreapp3.1\ConometroEmerson.exe
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\bin\Debug\netcoreapp3.1\ConometroEmerson.deps.json
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\bin\Debug\netcoreapp3.1\ConometroEmerson.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\bin\Debug\netcoreapp3.1\ConometroEmerson.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\bin\Debug\netcoreapp3.1\ConometroEmerson.dll
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\bin\Debug\netcoreapp3.1\ConometroEmerson.pdb
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\obj\Debug\netcoreapp3.1\ConometroEmerson.dll
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\obj\Debug\netcoreapp3.1\ConometroEmerson.pdb
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\obj\Debug\netcoreapp3.1\ConometroEmerson.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ConometroEmerson\ConometroEmerson\obj\Debug\netcoreapp3.1\ConometroEmerson.csprojAssemblyReference.cache
